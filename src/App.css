@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.dice-container {
+  width: 100px;
+}
+
+.carousel {
+  display: flex;
+  justify-content: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
